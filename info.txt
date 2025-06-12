@@ -1,0 +1,826 @@
+CURRICULUM VITAE/ELENCO DELL’ATTIVITA’ DIDATTICA E DI RICERCA E DELLE PUBBLICAZIONI - ALLEGATO ALLA DOMANDA DI PARTECIPAZIONE CODICE IDENTIFICATIVO PROCEDURA: 1_PO_2024_18C4
+
+
+DI CUI COSTITUISCE PARTE INTEGRANTE E SOSTANZIALE
+
+
+COGNOME: COPPOLINO.	NOME: …LUIGI
+
+
+A) ATTIVITÀ DIDATTICA, DI DIDATTICA INTEGRATIVA E DI SERVIZIO AGLI STUDENTI (si ricorda che, ai sensi dell’articolo del Bando rubricato “Valutazione dell’attività didattica, didattica integrativa e di servizio agli studenti”, sono considerati: il volume, l’intensità, la continuità e la congruenza con gli eventuali ulteriori elementi di “qualificazione riconosciuti a livello internazionale” indicati dal Dipartimento che ha richiesto la procedura. Inoltre, per le attività di didattica integrativa e di servizio agli studenti sono considerate in particolare le attività di relatore/relatrice di tesi di laurea e di laurea magistrale, il tutoraggio di dottorandi/e di ricerca, i seminari, le esercitazioni e il tutoraggio di studenti/studentesse di corsi di laurea e di laurea magistrale)
+N.D.R.: per ciascun insegnamento precisare SEDE, DENOMINAZIONE, PERIODO, N. CFU E N. ORE SVOLTE 
+
+Luigi Coppolino ha una lunga esperienza didattica che si concretizza in un totale di 219 CFU e 1.752 ore di didattica erogata in 8 diversi insegnamenti, con una prevalenza di CFU su corsi inerenti le Architetture dei Calcolatori e la Sicurezza Informatica, e una continuità compatibile con il ruolo ricoperto nell’Università a partire dal 2007. Alle ore di didattica in corsi universitari, si sommano poi le ore di didattica erogate in corsi di dottorato per un totale di 20 CFU o 80 ore di didattica. Oltre ad essere stato tutor e relatore di diverse tesi di laurea triennale e magistrale, a Luigi Coppolino è stata conferita dal Collegio dei Docenti del presso il Dipartimento di Ingegneria della Università degli Studi di Napoli Federico II, la Supervisione di 8 dottorandi. Ha svolto didattica nell’ambito di un Master Universitario di II livello organizzato con Università Estere e tenuto in lingua inglese. E’ stato revisore di tesi di laurea specialistica e dottorato sia per altre università Italiane che per Università Estere. Ha numerose esperienze di didattica erogata a favore di aziende ed enti.
+
+A.1 Attività didattica in Corsi Universitari
+
+1) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea in Ingegneria e Scienze Informatiche per la Cybersecurity, Insegnamento PROGETTAZIONE DI SOFTWARE SICURO, 24 ore, 3 CFU, a.a. 2023/2024 (in corso)
+
+2) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea in INGEGNERIA INFORMATICA BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2023/2024 (in corso)
+
+3) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea Magistrale in INGEGNERIA DELLE TECNOLOGIE DELL'INFORMAZIONE PER LE COMUNICAZIONI E LA SALUTE, Insegnamento SICUREZZA DEI SISTEMI INFORMATICI, 48 ore, 6 CFU, a.a. 2023/2024
+
+4) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2022/2023
+  
+
+5) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea Magistrale in INGEGNERIA DELLE TECNOLOGIE DELL'INFORMAZIONE PER LE COMUNICAZIONI E LA SALUTE, Insegnamento SICUREZZA DEI SISTEMI INFORMATICI, 48 ore, 6 CFU, a.a. 2022/2023
+  
+
+6) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2021/2022
+  
+
+7) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea Magistrale in INGEGNERIA DELLE TECNOLOGIE DELL'INFORMAZIONE PER LE COMUNICAZIONI E LA SALUTE, Insegnamento SICUREZZA DELLE RETI, 48 ore, 6 CFU, a.a. 2021/2022
+
+
+8) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento PROGRAMMAZIONE DEI CALCOLATORI ELETTRONICI, 72 ore, 9 CFU, a.a. 2020/2021
+
+
+9) Università degli Studi di Napoli Parthenope, Scuola delle Scienze, dell'Ingegneria e della Salute, Corso di Laurea Magistrale in INGEGNERIA DELLA SICUREZZA DEI DATI E DELLE COMUNICAZIONI, Insegnamento SICUREZZA DELLE RETI, 48 ore, 6 CFU, a.a. 2020/2021
+
+
+10) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento PROGRAMMAZIONE DEI CALCOLATORI ELETTRONICI, 120 ore, 15 CFU, a.a. 2019/2020
+
+
+11) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 96 ore, 12 CFU, a.a. 2018/2019
+
+
+12) Università degli Studi di Napoli Parthenope, Corso di Laurea Magistrale in INGEGNERIA DELLA SICUREZZA DEI DATI E DELLE COMUNICAZIONI, Insegnamento SICUREZZA DEI SISTEMI INFORMATICI, 72 ore, 9 CFU, a.a. 2018/2019
+
+
+13) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 96 ore, 12 CFU, a.a. 2017/2018
+
+
+14) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento PROGRAMMAZIONE DEI CALCOLATORI ELETTRONICI, 24 ore, 3 CFU, a.a. 2017/2018
+
+
+15) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2016/2017
+
+
+16) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2015/2016
+
+
+17) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA GESTIONALE, Insegnamento ELABORAZIONE DATI CON STRUMENTI INFORMATICI, 72 ore, 9 CFU, a.a. 2014/2015
+
+
+18) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2013/2014
+
+
+19) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA INFORMATICA, BIOMEDICA E DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2012/2013
+
+
+20) Università degli Studi di Napoli Parthenope, Corso di Laurea in DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2011/2012
+
+
+21) Università degli Studi di Napoli Parthenope, Corso di Laurea in DELLE TELECOMUNICAZIONI, Insegnamento ARCHITETTURA DEI SISTEMI A MICROPROCESSORE, 72 ore, 9 CFU, a.a. 2010/2011
+
+
+22) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA CIVILE ED AMBIENTALE, mutuato CdL GESTIONALE, Insegnamento ELABORAZIONE DATI CON STRUMENTI INFORMATICI, 72 ore, 9 CFU, a.a. 2009/2010
+
+
+23) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA GESTIONALE mutuato CdL Specilistica TLC, Insegnamento SISTEMI OPERATIVI E BASI DI DATI, 72 ore, 9 CFU, a.a. 2009/2010
+
+
+24) Università degli Studi di Napoli Parthenope, Corso di Laurea in INGEGNERIA CIVILE ED AMBIENTALE, Insegnamento ELABORAZIONE DATI CON STRUMENTI INFORMATICI, 72 ore, 9 CFU, a.a. 2008/2009
+
+
+25) Università degli Studi di Napoli Parthenope, Corso di Laurea Specialistica in INGEGNERIA delle TELECOMUNICAZIONI, Insegnamento SISTEMI OPERATIVI E BASI DI DATI, 72 ore, 9 CFU, a.a. 2008/2009
+
+
+26) Università degli Studi di Napoli Parthenope, Corso di Laurea in Ingegneria Gestionale, Insegnamento Sistemi Informativi e Basi di Dati, 48 ore, 6 CFU, a.a. 2007/2008
+
+Per un totale di 26 insegnamenti, 219 CFU e 1.752 ore di didattica. Di seguito si riporta una sintesi della distribuzione dei CFU per Insegnamento e per anno.
+
+
+DENOMINAZIONE	CFU
+1	Architettura dei Sistemi a Microprocessore	105
+2	Programmazione del Calcolatori Elettronici	27
+3	Elaborazione Dati con Strumenti Informatici	27
+4	Sicurezza dei Sistemi Informatici	21
+5	Sistemi Operativi e Basi di Dati	18
+6	Sicurezza delle Reti	12
+7	Sistemi Informativi e Basi di Dati	6
+8	Progettazione di software sicuro	3
+TOTALE CFU	219
+
+Anno accademico	CFU
+2023/2024	18
+2022/2023	15
+2021/2022	15
+2020/2021	15
+2019/2020	15
+2018/2019	21
+2017/2018	15
+2016/2017	9
+2015/2016	9
+2014/2015	9
+2013/2014	9
+2012/2013	9
+2011/2012	9
+2010/2011	9
+2009/2010	18
+2008/2009	18
+2007/2008	6
+TOTALE	219
+
+Nell’ambito dei corsi elencati, Luigi Coppolino è stato tutor, referente per tirocini esterni e relatore di numerosi tesi di laurea sia magistrale (prevalentemente sulle tematiche dei corsi di Sicurezza dei Sistemi Informatici e Sicurezza delle Reti) sia triennali (prevalentemente sulle tematiche del corso di Architettura dei Sistemi a Microprocessore).
+
+A.2 Attività didattica in corsi di Dottorato o altri corsi di rilevanza internazionale
+
+27) Docente del corso "Practical Malware Analysis" nell'ambito del XXXVII ciclo del dottorato in "INFORMATION AND COMMUNICATION TECHNOLOGY AND ENGINEERING" presso Università degli Studi di NAPOLI "Parthenope", 4 CFU, 16 ore, dal 04-07-2022 al 07-07-2022
+
+28) Docente del corso "Practical Malware Analysis" nell'ambito del XXXV ciclo del dottorato in "INFORMATION AND COMMUNICATION TECHNOLOGY AND ENGINEERING" presso Università degli Studi di NAPOLI "Parthenope", 4 CFU, 16 ore, dal 06-07-2020 al 10-07-2020
+
+29) Docente del corso "Video Surveillance System Design” nell'ambito del XXX ciclo del dottorato in "INGEGNERIA DELL'INFORMAZIONE" presso Università degli Studi di NAPOLI "Parthenope", 4 CFU, 16 ore, dal 14-11-2017 al 16-11-2017
+
+30) Docente del corso "Video Surveillance System Design” nell'ambito del XXIX ciclo del dottorato in "INGEGNERIA DELL'INFORMAZIONE" presso Università degli Studi di NAPOLI "Parthenope", 4 CFU, 16 ore, dal 07-09-2016 al 12-09-2016
+
+31) Docente del corso "Information Data Fusion” nell'ambito della PhD Winter School: Securing Critical Infrastructure, 4 ore, 1 CFU, Gennaio 17th - 21st, 4h, Cortina d'Ampezzo, Italy
+
+32) Docente del corso "SCADA Security” nell'ambito del XXVIII ciclo del dottorato in "INGEGNERIA DELL'INFORMAZIONE" presso Università degli Studi di NAPOLI "Parthenope", 4 CFU, 16 ore, dal 10-06-2015 al 12-06-2015
+
+33) 2007-2011 (quattro edizioni) Università degli Studi di Napoli Parthenope, MASTER UNIVERSITARIO DI II LIVELLO, 
+- Modulo Didattico “Information Security” (crediti 6, ore 30 per ogni edizione, SSD ING-INF/05 in inglese), 
+- Modulo Didattico “Dependable Web Application” (crediti 6, ore 30 per ogni edizione, SSD ING-INF/05 in inglese), 
+nell’ambito dello European Master on Critical Networked Systems, organizzato dall’Università degli Studi di Napoli Parthenope in collaborazione con Universitad Politecnica de Madrid (UPM) e Technische Universtad Dresden (TUD).
+
+34) Revisiore di DUE Master Degree dissertation, sulla base di altrettanti incarichi conferiti dalla Facoltà di Scienze della University of Capetown.
+
+35) Valutatore esterno per tesi di dottorato presso 
+	Dipartimento di Ingegneria Elettrica e Tecnologie dell’Informazione, Università degli Studi di Napoli Federico II, Dottorato di Ricerca in Information Technology and Electrical  Engineering per 
+		- Dott. Argenziano Domenico, a.a. 2XXX ciclo
+		- Dott. Martino Raffaele, XXXII ciclo
+	Dipartimento di Scienze Biomediche, Università degli Studi di Napoli Federico II, Dottorato di Ricerca in Scienze Biomorfologiche e Chirurgiche
+		- Dott. Scala Mario, XXXIV ciclo
+
+A.3 Attività di Supervisione di Dottorandi nel ruolo di Tutor conferito dal Collegio dei Docenti
+
+36) Supervisione dell’Ing. Alfredo Petruolo, Dottorato di Ricerca in Information Engineering and Communication Technology and Engineering, XXXVIII ciclo, Università degli Studi di Napoli Parthenope
+
+37) Supervisione dell’Ing. Lorenzo Andolfo, Dottorato di Ricerca in Information Engineering and Communication Technology and Engineering, XXXV ciclo, Università degli Studi di Napoli Parthenope
+
+38) Supervisione dell’Ing. Luigi Sgaglione, Dottorato di Ricerca in Information Engineering, XXXI ciclo, Università degli Studi di Napoli Parthenope
+
+39) Supervisione dell’Ing. Gianfranco Cerullo, Dottorato di Ricerca in Information Engineering, XXIX ciclo, Università degli Studi di Napoli Parthenope
+
+40) Supervisione dell’Ing. Alessia Garofalo, Dottorato di Ricerca in Information Engineering, XXVII ciclo, Università degli Studi di Napoli Parthenope
+
+41) Supervisione dott. Cicotti Giuseppe, Dottorato di Ricerca in Information Engineering, XXVI ciclo, Università degli Studi di Napoli Parthenope
+
+42) Supervisione dott.ssa Adinolfi Ornella, Dottorato di Ricerca in Information Engineering, XXV ciclo, Università degli Studi di Napoli Parthenope
+
+43) Supervisione ing. Vianello Valerio, Dottorato di Ricerca in Information Engineering, XXIII ciclo, Università degli Studi di Napoli Parthenope
+
+A.4 Altre attività didattiche svolte in master o in collaborazione con enti esterni
+
+44) Ministero dello Sviluppo Economico, Istituto Superiore delle Comunicazioni e delle Tecnologie dell'Informazione, Scuola Superiore di Specializzazione in Telecomunicazioni, SICUREZZA DELLA IOT, n. 4 Crediti Formativi Professionali (CFP) al CNI (Consiglio Nazionale degli Ingegneri). 2017.
+
+45) Scuola di Formazione del Sistema di Informazione per la Sicurezza della Repubblica, Percorsi formativi in materia di cyber threat: Modulo Tecnici Avanzato, SISTEMI RESILIENTI E SISTEMI SCADA  8 ore, 2016
+
+46) Scuola di Formazione del Sistema di Informazione per la Sicurezza della Repubblica, Percorsi formativi in materia di cyber threat: Modulo Tecnici Avanzato, Sistemi Resilienti e Sistemi SCADA, 8 ore, 2015.
+
+47) CINI-Finmeccanica School on Complex Software Systems Design, III Ed., Fundamentals of Network Security, 8 ore, 2011
+
+48) CINI-Finmeccanica School on Complex Software Systems Design, II Ed., Fundamentals of Network Security, 8 ore, 2010
+
+49) CINI-Finmeccanica School on Complex Software Systems Design, I Ed., Fundamentals of Network Security, 8 ore, 2009
+
+50) CINI-Finmeccanica School on Complex Software Systems Design, I Ed., Fundamentals of Network Security, 8 ore, 2009
+
+51) Docente nel Corso di formazione Cyberchallenge.it per le edizioni 2018/2019/2020/2022/2023 presso il nodo di Napoli Parthenope sulle tematiche di Binary Exploitation e Malware Analysis per circa 24 ore per ciascuna edizione
+
+
+B) ATTIVITÀ DI RICERCA SCIENTIFICA 
+
+L’attività di ricerca di Luigi Coppolino si concentra sull’analisi, la progettazione, la realizzazione e la validazione di sistemi complessi distribuiti e connessi, con stringenti requisiti in termini di dependability e sicurezza. In questo contesto ricadono in particolare le cosiddette Infrastrutture Critiche, cioè quei sistemi il cui malfunzionamento avrebbe un notevole impatto socio-economico risultando in ultima analisi in disastri ambientali, economici o in termini di vite umane. Esempi di infrastrutture critiche d’interesse nell’ambito delle ricerche del prof. Coppolino sono le infrastrutture sanitarie e le infrastrutture di distribuzione dell’energia elettrica. L’attività di ricerca è prevalentemente focalizzata sul monitoraggio e l’analisi delle infrastrutture, ma l’attività di ricerca più recente esplora l’uso di tecniche di privacy preserving computing per aumentare la sicurezza delle informazioni sensibili e dei servizi.
+
+Luigi Coppolino è autore di 91 lavori indicizzati SCOPUS, WoS. Di questi 28 sono articoli a rivista, 23 dei quali su riviste ad oggi classificate come Q1/Q2. E’ interessante notare che dei 12 migliori lavori per collocazione editoriale, 11 ricadono negli ultimi 7 anni e 7 negli ultimi 3 anni. Ciò è indice del raggiungimento di una maturità nella produzione scientifica che è notevolmente migliorata in qualità negli anni recenti. 
+
+La ricerca di Luigi Coppolino si caratterizza per una forte natura ingegneristica che la avvicina al concetto di ricerca industriale trovando notevole applicazione in attività di trasferimento tecnologico e/o di collaborazione con gruppi di ricerca testimoniate dall’elevato numero di progetti in cui il prof. Coppolino è coinvolto. Notevole è la capacità di attrarre finanziamenti. Luigi Coppolino è o è stato, infatti, responsabile scientifico per oltre 4 milioni di euro di finanziamenti ricevuti attraverso il Dipartimento cui afferisce (quasi tre milioni di euro) e/o consorzi di ricerca o aziende con cui collabora. In particolare Luigi Coppolino è cofondatore di uno spin-off universitario attivo nell’ambito della ricerca industriale e risultato assegnatario di fondi dalla Commissione Europea nell’ambito di due progetti Horizon Europe, oltre a essere attivo nella consulenza sui temi di ricerca propri dell’attività di Luigi Coppolino.
+Luigi Coppolino presenta alcuni premi e riconoscimenti nazionali e internazionali. Ha numerose collaborazioni sia in Italia che all’estero presentando oltre 50 coautori, collaborando con 14 istituzione estere e avendo oltre il 20% di collaborazioni estere (fonte: Clarivate inCites  Researcher Report).
+
+
+1) PUBBLICAZIONI SCIENTIFICHE OGGETTO DI VALUTAZIONE ANALITICA  
+Il/La candidato/a elenca di seguito esclusivamente quelle che dovranno essere oggetto di valutazione analitica da parte della Commissione, nel limite massimo previsto dalla scheda di riferimento della procedura
+
+	* best: miglior valore / current: valore attuale / pub: valore all’anno di pubblicazione
+1)  
+Titolo: A framework for Seveso-compliant cyber-physical security testing in sensitive industrial plants
+Autori: Coppolino L.; D'Antonio S.; Giuliano V.; Mazzeo G.; Romano L.
+Anno: 2022
+Rivista: Computers in Industry
+Editore: Elsevier B.V.
+vol. 136 
+DOI: 10.1016/j.compind.2021.103589
+SJR (best/current/pub)*: Q1/Q1/Q1
+IF: 11.245 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS 13/163
+
+2)
+Titolo: CAN-Bus Attack Detection with Deep Learning
+Autori: Amato F.; Coppolino L.; Mercaldo F.; Moscato F.; Nardone R.; Santone A.
+Anno: 2021
+Rivista: IEEE Transactions on Intelligent Transportation Systems
+Editore: Institute of Electrical and Electronics Engineers Inc.
+vol. 22 no. 8 pp. 5081 – 5090
+DOI: 10.1109/TITS.2020.3046974
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 9.551 (JIF InCites) 
+Category Rank (WoS): ENGINEERING, ELECTRICAL & ELECTRONIC 18/352
+
+3)  
+Titolo: PriSIEM: Enabling privacy-preserving Managed Security Services
+Autori: Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L.
+Anno: 2022
+Rivista: Journal of Network and Computer Applications
+Editore: Academic Press
+vol. 203 
+DOI: 10.1016/j.jnca.2022.103397
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 8.7 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 6/63
+
+4)
+Titolo: An abstract reasoning architecture for privacy policies monitoring
+Autori: Amato F.; Coppolino L.; D'Antonio S.; Mazzocca N.; Moscato F.; Sgaglione L.
+Anno: 2020
+Rivista: Future Generation Computer Systems
+Editore: Elsevier B.V.
+vol. 106 pp. 393 – 400
+DOI: 10.1016/j.future.2020.01.019
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 7.187 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, THEORY & METHODS 10/145
+
+
+5) 
+Titolo: A comparative analysis of emerging approaches for securing java software with Intel SGX
+Autori: Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.
+Anno: 2019
+Rivista: Future Generation Computer Systems
+Editore: Elsevier B.V.
+vol. 97 no.  pp. 620 – 633
+DOI: 10.1016/j.future.2019.03.018
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 6.125 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, THEORY & METHODS 10/145
+
+6)
+Titolo: A comprehensive survey of hardware-assisted security: From the edge to the cloud
+Autori: Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.
+Anno: 2019
+Rivista: Internet of Things (Netherlands)
+Editore: Elsevier B.V.
+vol. 6 
+DOI: 10.1016/j.iot.2019.100055
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 5.9 
+Category Rank (WoS): COMPUTER SCIENCE, INFORMATION SYSTEMS 41/251
+
+7)
+Titolo: Enhancing random forest classification with NLP in DAMEH: A system for Data Management in eHealth Domain
+Autori: Amato F.; Coppolino L.; Cozzolino G.; Mazzeo G.; Moscato F.; Nardone R.
+Anno: 2021
+Rivista: Neurocomputing
+Editore: Elsevier B.V.
+vol. 444 pp. 79 – 91
+DOI: 10.1016/j.neucom.2020.08.091
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 5.719 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 49/192
+
+8) 
+Titolo: An OpenNCP-based Solution for Secure eHealth Data Exchange
+Autori: Staffa M.; Sgaglione L.; Mazzeo G.; Coppolino L.; D'Antonio S.; Romano L.; Gelenbe E.; Stan O.; Carpov S.; Grivas E.; Campegiani P.; Castaldo L.; Votis K.; Koutkias V.; Komnios I.
+Anno: 2018
+Rivista: Journal of Network and Computer Applications
+Editore: Academic Press
+vol. 116 pp. 65 – 85
+DOI: 10.1016/j.jnca.2018.05.012
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 5.273 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 6/63
+
+9)
+Titolo: SIL2 assessment of an Active/Standby COTS-based Safety-Related system
+Autori: Mazzeo G.; Coppolino L.; D'Antonio S.; Mazzariello C.; Romano L.
+Anno: 2018
+Rivista: Reliability Engineering and System Safety
+Editore: Elsevier Ltd
+vol. 176 pp. 125 – 134
+DOI: 10.1016/j.ress.2018.04.009
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 4.039 (JIF InCites) 
+Category Rank (WoS): ENGINEERING, INDUSTRIAL 7/68
+
+10) 
+Titolo: Elliptic Curve Cryptography Engineering
+Autori: Alessandro Cilardo, Luigi Coppolino, Nicola Mazzocca, Luigi Romano
+Anno: 2006
+Rivista: Proceeding of the IEEE
+Editore: IEEE Inc.
+vol. 94 no. 2 pp. 395-405
+DOI: 10.1109/JPROC.2005.862438
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 3.686 (alla data della pubblicazione, oggi 20.6) (JIF InCites)
+Category Rank (WoS): Computer Science (miscellaneous)	 2/326
+ 
+
+11)
+Titolo: VISE: Combining Intel SGX and Homomorphic Encryption for Cloud Industrial Control Systems
+Autori: Coppolino L.; D'Antonio S.; Formicola V.; Mazzeo G.; Romano L.
+Anno: 2021
+Rivista: IEEE Transactions on Computers
+Editore: IEEE Computer Society
+vol. 70 no. 5 pp. 711 – 724
+DOI: 10.1109/TC.2020.2995638
+SJR (best/current/pub): Q1/Q1/Q1
+IF: 3.183 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 21/63
+
+12) 
+Titolo: Cloud security: Emerging threats and current solutions
+Autori: Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.
+Anno: 2017
+Rivista: Computers and Electrical Engineering
+Editore: Elsevier Ltd
+vol. 59 pp. 126 – 140
+DOI: 10.1016/j.compeleceng.2016.03.004
+SJR (best/current/pub): Q1/Q1/Q2
+IF: 1.747 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 17/63
+
+13) 
+Titolo: A framework for mastering heterogeneity in multi-layer security information and event correlation
+Autori: Coppolino L.; D'Antonio S.; Formicola V.; Romano L.
+Anno: 2016
+Rivista: Journal of Systems Architecture
+Editore: Elsevier
+vol. 62 pp. 78 – 88
+DOI: 10.1016/j.sysarc.2015.11.010
+SJR (best/current/pub): Q1/Q1/Q2
+IF: 1.579 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 10/63
+
+14) 
+Titolo: Exposing vulnerabilities in electric power grids: An experimental approach
+Autori: Coppolino L.; D'Antonio S.; Romano L.
+Anno: 2014
+Rivista: International Journal of Critical Infrastructure Protection
+Editore: Elsevier B.V.
+vol. 7 no. 1 pp. 51 – 60
+DOI: 10.1016/j.ijcip.2014.01.003
+SJR (best/current/pub): Q1/Q1/Q2
+IF: 1 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, INFORMATION SYSTEMS 59/251
+
+15) 
+Titolo: Use of the Dempster–Shafer theory to detect account takeovers in mobile money transfer services
+Autori: Coppolino L.; D’Antonio S.; Formicola V.; Massei C.; Romano L.
+Anno: 2015
+Rivista: Journal of Ambient Intelligence and Humanized Computing
+Editore: Springer Verlag
+vol. 6 no. 6 pp. 753 – 762
+DOI: 10.1007/s12652-015-0276-9
+SJR (best/current/pub): Q1/Q1/Q2
+IF: 0.835 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE 57/190
+
+16) 
+Titolo: Applying extensions of evidence theory to detect frauds in financial infrastructures
+Autori: Coppolino L.; D'Antonio S.; Formicola V.; Romano L.
+Anno: 2015
+Rivista: International Journal of Distributed Sensor Networks
+Editore: Hindawi Publishing Corporation
+vol. 2015 
+DOI: 10.1155/2015/980629
+SJR (best/current/pub): Q2/Q2/Q2
+IF: 0.906 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, INFORMATION SYSTEMS 154/251
+
+17) 
+Titolo: Risk Assessment Driven Use of Advanced SIEM Technology for Cyber Protection of Critical e-Health Processes
+Autori: Coppolino L.; Sgaglione L.; D’antonio S.; Magliulo M.; Romano L.; Pacelli R.
+Anno: 2022
+Rivista: SN Computer Science ISSN 2662995X, 26618907
+Editore: Springer
+vol. 3 no. 1 
+DOI: 10.1007/s42979-021-00858-4
+SJR (best/current/pub): Q2/Q2/Q2
+Category Rank (WoS): Computer Science (miscellaneous)	 
+
+18) 
+Titolo: A business process monitor for a mobile phone recharging system
+Autori: Campanile F.; Coppolino L.; Giordano S.; Romano L.
+Anno: 2008
+Rivista: Journal of Systems Architecture
+Editore: Elsevier
+vol. 54 no. 9 pp. 843 – 848
+DOI: 10.1016/j.sysarc.2008.02.005
+SJR (best/current/pub): Q1/Q1/Q3
+IF: 0.984 (JIF InCites) 
+Category Rank (WoS): COMPUTER SCIENCE, HARDWARE & ARCHITECTURE 10/63
+
+
+2) INDICARE OGNI ELEMENTO UTILE AD INDIVIDUARE LA CAPACITÀ DI ATTRARRE FINANZIAMENTI COMPETITIVI IN QUALITÀ DI RESPONSABILE DI PROGETTO;
+
+Responsabilità scientifica nell’ambito di progetti finanziati dalla Commissione Europea a seguito di procedura comparativa:
+
+1 May 2017/31 October 2019 Technical Coordinator dell’intero progetto e Responsabile Scientifico di Unità Locale CINI (Consorzio Interuniversitario Nazionale per l’Informatica) per il progetto europeo H2020 COMPACT (COmpetitive Methods to protect local Public Administration from Cyber security Threats), Grant Agreement no.: 740712 ammesso a finanziamento dalla Commissione Europea in risposta al bando H2020-DS-SC7-2016 e dopo processo di valutazione comparativa operata mediante revisione tra pari. 
+Luigi Coppolino ha partecipato alla preparazione della proposta di progetto, operato quale Technical Coordinator dell’intero progetto e come responsabile per il CINI. 
+Valore del contributo per CINI € 543.625,00 (totale progetto: € 3.648.792,50)
+
+10/2022 – 06/2025 Responsabile Scientifico per TrustUp Srl (spinoff dell’Università Parthenope di cui Luigi Coppolino è cofondatore) nell’ambito del progetto Horizon Europe CERTIFY (aCtive sEcurity foR connecTed devIces liFecYcles) Grant agreement ID: 101069471, ammesso a finanziamento dalla Commissione Europea in risposta al bando HORIZON-CL3-2021-CS-01 e dopo processo di valutazione comparativa operata mediante revisione tra pari.
+Luigi Coppolino ha partecipato alla preparazione della proposta di progetto e sta coordinando le attività per il partner TrustUp Srl.
+Valore del contributo per TrustUp € 345.000,00 (totale progetto: € 3.997.897,50)
+
+1 September 2020/ 28 February 2023 Responsabile Scientifico per il CENTRO REGIONALE INFORMATION E COMMUNICATION TECHNOLOGY SCARL nell’ambito del progetto H2020 
+7-SHIELD (Safety and Security Standards of Space Systems, ground Segments and Satellite data assets, via prevention, detection, response and mitigation of physical and cyber threats) Grant agreement ID: 883284, ammesso a finanziamento dalla Commissione Europea in risposta al bando H2020-SU-INFRA-2019 e dopo processo di valutazione comparativa operata mediante revisione tra pari.
+Luigi Coppolino ha partecipato alla preparazione della proposta di progetto e diretto le attività per il CeRICT. 
+Valore del contributo per CeRICT € 311 250,00 (totale progetto: € 6 969 568,75)
+
+1 October 2010 / 30 September 2013 Responsabile Scientifico per Epsilon S.r.L. per l'esecuzione del progetto FP7 MASSIF (MAnagement of Security information and events in Service InFrastructures), Grant agreement no.: 313034, ammesso a finanziamento dalla Commissione Europea in risposta al bando FP7-ICT-2009-5 e dopo processo di valutazione comparativa operata mediante revisione tra pari.
+Luigi Coppolino ha partecipato alla preparazione della proposta di progetto e coordinato le attività di ricerca per lo spin-off Epsilon Srl.
+Valore del contributo per il partner € 396.310,00 (totale progetto: € 5.950.000,00)
+
+Responsabilità scientifica nell’ambito di progetti nazionali finanziati a seguito di procedura comparativa
+
+Luigi Coppolino è/è stato referente scientifico e responsabile di unità per il Dipartimento di Ingegneria dell’Università Parthenope per i seguenti progetti in cui il Dipartimento è/è stato soggetto proponente o soggetto attuatore di società consortili: 
+
+PON ARS01_00353 - Monitoraggio attivo dell’infrastruttura (MAIA) - Tematica: valutazione in tempo reale dello stato di sicurezza (safety e security) dell'infrastruttura ferroviaria 
+Costo Progetto: € 9.878.214  - Costo Ammesso Dipartimento: € 976.800 – Contributo per Dipartimento € 470.800,00
+
+MISE F/190135/01-03/X44 - Industrial Control System (ICShield) - Tematica: identificazione e protezione da attacchi informatici (e.g., zero-day) su sistemi SCADA 
+Costo Progetto: € 3.019.812,50 – Costo Ammesso Dipartimento: € 1.039.500,00 – Contributo per Dipartimento € 493.762,50
+
+POR Campania FESR 2014/2020 Technologies for Connected Vehicles (C-MOBILITY) - Tematica: sicurezza attiva di tipo cooperativo di veicoli, tramite connessioni V2V, V2I e V2X
+Costo Ammesso Dipartimento: circa € 78.799,96 – Contributo per Dipartimento € 63.039,96
+
+POR Campania FESR 2014/2020 Platform ITC for the Autonomous and Connected Vehicles (P-MOBILITY) - Tematica: piattaforma modulare open-source per servizi di prossimità in mobilità urbana.
+Costo Ammesso Dipartimento: € 98.494,28 – Contributo per Dipartimento € 78.795,42
+
+POR Campania FESR 2014/2020 Smart Monitoring for Infrastructure & Environment (ANTIFANE) - Tematica: piattaforma per il controllo in sicurezza del traffico stradale di veicoli non cooperanti
+Costo Progetto: € 52.744,00 - Contributo per Dipartimento € 42.195,00
+
+MISE Contratto di Sviluppo (cds 606) - Farmaceutica e Diagnostica; 
+Tematica: metodologie innovative per la riduzione dei costi del welfare sanitario tramite diagnosi precoce
+Costo Ammesso per Dipartimento: € 1.193.147,63 - 
+Contributo per Dipartimento € 705.882,35
+
+MISE Contratto di Sviluppo (cds 1108) - Materiali Sostenibili e SoluzionI Tecnologiche per Componenti Auto a Ridotto Impatto AmBIentale ed ELevate PrEstazioni (MIRABILE)
+Tematica: controllo e supervisione in sicurezza della catena produttiva e logistica, ai fini di monitoraggio, prestazioni, consumi energetici e impatto ambientale
+Costo Ammesso per Dipartimento € 581.000,00 – Contributo per Dipartimento € 377.650,00
+
+MISE Contratto di Sviluppo (cds 1133) - Progetto dISsipatori ad attrito e Taglio laser per INfrastrutture a basso danneggiamenTO (ISTINTO)
+Tematica: architettura di riferimento per un Flexible Manufacturing System che sfrutti appieno le potenzialità offerte dalle tecnologie dell’Industria 4.0.
+Costo Ammesso per Dipartimento € 256.333,33 – Contributo per Dipartimento € 166.616,67
+
+MIMiT Accordi per l’Innovazione - Approccio User-friendly integrato per Diagnosi, Assistenza e Cura Efficaci (AUDACE)
+Tematica: piattaforma integrata per la fornitura di una serie di servizi di supporto, per la diagnosi, l’assistenza e la cura efficaci.
+Costo Ammesso per Dipartimento €395.289,06 – Contributo per Dipartimento € 237.173,44
+
+MIMiT Accordi per l’Innovazione - Azienda Iperconnessa (AZIPER)
+Tematica: definizione dell’architettura di un’Azienda Iperconessa, ovvero un'azienda che utilizza le tecnologie abilitanti dell’Industria 4.0 per rendere più efficienti e connettere tra loro i processi di business dell'organizzazione
+Costo Ammesso per Dipartimento € 499.918,75 – Contributo per Dipartimento € 299.951,25
+
+PON Ricerca e competitività 2007/13  progetto “Mobile Continuous Connected Comprehensive – Care – Piattaforma integrata per registrare, sincronizzare e condividere dati ed accedere ad informazioni sulla salute e lo stile di vita e al Sistema Sanitario in Mobilità” (MC3CARE) 
+Importo della convenzione € 6.456,50
+
+
+Responsabile scientifico di convenzioni/accordi di collaborazione con enti e/o società private
+
+Responsabile scientifico per il CeRICT (Centro Regionale per le ICT) di un accordo di collaborazione tecnico-scientifica per l’esecuzione di un programma di ricerca applicata avente ad oggetto “studio dei modi di guasto di un’architettura cluster basata su componenti COTS”, tra CeRICT e Hitachi Ansaldo STS SpA. 
+Importo della convenzione € 12.000,00
+
+Responsabile scientifico per il Dipartimento per le Tecnologie dell’Università degli Studi di Napoli Parthenope di un accordo di collaborazione tecnico-scientifica  per l’esecuzione di un programma di ricerca applicata avente ad oggetto “progettazione e realizzazione di sistemi di rete critici”, tra Tecnosoft SA e il Dipartimento per le Tecnologie dell’Università degli Studi di Napoli Parthenope 
+Importo della convenzione € 12.000,00
+
+Responsabile scientifico per il CeRICT (Centro Regionale per le ICT) di un accordo di collaborazione tecnico-scientifica per l’esecuzione di un programma di ricerca applicata avente ad oggetto “Sperimentazione prototipale del Timbro Digitale”, tra CeRICT e Comune di Afragola 
+Importo della convenzione € 50.000,00
+
+Responsabile scientifico per il CeRICT (Centro Regionale per le ICT) di un accordo di collaborazione tecnico-scientifica per l’esecuzione di un programma di ricerca applicata avente ad oggetto “Studio di metodologie e tecnologie per l’accesso ai dati, con particolare riferimento alle problematiche di interoperabilità e sicurezza”, tra CeRICT e Input Data Srl 
+Importo della convenzione € 50.000,00
+
+25/6/2008 - 25/01/2009 TA-CAMP  Responsabile scientifico per il Dipartimento per le Tecnologie dell’Università degli Studi di Napoli Parthenope di un accordo di collaborazione tecnico-scientifica (Rif prot. 459/2008 del 25/06/2008) per l’esecuzione di un programma di ricerca applicata avente ad oggetto “Analisi di un sottosistema software per l’erogazione di servizi informatici di sicurezza e comunicazione al sistema informativo dei distretti tessili della Regione Campania”, tra CeRICT e il Dipartimento per le Tecnologie dell’Università degli Studi di Napoli Parthenope
+Importo della convenzione: € 99.600,00
+
+Di seguito si riporta una sintesi della natura dei fondi di cui Luigi Coppolino è/è stato responsabile scientifico 
+
+Tipologia fondi di cui è stato/è responsabile scientifico	Totali
+Progetti Europei finanziati a seguito di procedura di valutazione	1.596.185,00
+Regionali/Nazionali finanziati a seguito di procedura di valutazione	2.942.323,09 €
+Convenzioni/accordi di collaborazione con privati	223.600,00 €
+Totale	4.762.108,09
+
+
+3)  ORGANIZZAZIONE, DIREZIONE E COORDINAMENTO DI CENTRI O GRUPPI DI RICERCA NAZIONALI E INTERNAZIONALI O PARTECIPAZIONE AGLI STESSI E ALTRE ATTIVITÀ QUALI LA DIREZIONE O LA PARTECIPAZIONE A COMITATI EDITORIALI DI RIVISTE SCIENTIFICHE;
+
+Partecipazione a gruppi di ricerca
+Responsabile per il Dipartimento di Ingegneria del laboratorio interdipartimentale (Dipartimento Ingegneria/DISEGIM) del laboratorio di ricerca FITNESS (Fault and Intrusion Tolerant Networked Systems)
+
+Membro del Laboratorio Nazionale di “Cyber Security” del Consorzio Interuniversitario Nazionale per l'Informatica (CINI), nell’ambito del quale dal 2024 partecipa al Comitato di Gestione, https://www.consorzio-cini.it/index.php/it/lab-cyber-security
+
+Membro del Laboratorio Nazionale “Embedded Systems & Smart Manufacturing” del Consorzio Interuniversitario Nazionale per l'Informatica (CINI), https://www.consorzio-cini.it/index.php/it/home-essm 
+
+Membro del Centro Regionale di Competenza ICT (CeRICT), http://www.cerict.it/en/, nell’ambito del quale è membro del Comitato Tecnico Scientifico dal novembre 2021
+
+Membro della European Cyber Security Organisation (ECSO), ed in particolar modo del Work Package 5 Skills & Human Factors – Road2Cyber. (https://ecs-org.eu/activities/education-training-awareness-and-cyber-ranges/)
+
+WP leader del progetto europeo H2020 KONFIDO - Secure and Trusted Paradigm for Interoperable eHealth Services, Grant agreement 727528, call H2020-DS-SC1-2016, con riferimento al WP4 System requirements and overall design. 
+
+WP leader del progetto europeo FP7 SAWSOC (Situation AWare Security Operations Center), Grant agreement ID: 313034, call FP7-SEC-2012-1, topic: Convergence of physical and cyber security, con particolare riferimento al WP2 (Techniques for correlating physical and logical security).
+
+WP leader per l’unità di lavoro denominata “WP3 Design and development of techniques for protecting and securing critical information infrastructures” per il progetto INSPIRE (INcreasing Security and Protection through Infrastructure Resilience), Grant agreement no.: 225553, ammesso a finanziamento dalla Commissione Europea in risposta al bando FP7-ICT-SEC-2007-1 e dopo processo di valutazione comparativa operata mediante revisione tra pari
+
+Principal Investigator per il progetto europeo Horizon Europe ENCRYPT (A scalable and practical privacy-preserving framework), Grant agreement ID: 101070670, call HORIZON-CL3-2021-CS-01, topic: Scalable privacy-preserving technologies for cross-border federated computation in Europe involving personal data
+
+Principal Investigator per il progetto europeo H2020 INCISIVE (A multimodal AI-based toolbox and an interoperable health imaging repository for the empowerment of imaging analysis related to the diagnosis, prediction and follow-up of cancer), Grant agreement ID: 952179, H2020-SC1-FA-DTS-2018-2020. Nell’ambito del progetto Luigi Coppolino ha lavorato ai sistemi a protezione dei dati sensibili elaborati.
+
+Principal Investigator per il progetto europeo H2020 SecureCloud (Secure Big Data Processing in Untrusted Clouds), Grant agreement no: 690111 | Topic: Trustworthy Cloud Computing
+
+Principal Investigator per il progetto europeo H2020 SERECA (Secure Enclaves for REactive Cloud Applications), Grant agreement no: 645011 | Topic: Trustworthy Cloud Computing
+
+Principal Investigator per il progetto FP7 LeanBigData, grant agreement no 619606 | Topic: Big Data Management e Analytics
+
+Principal Investigator per il progetto europeo FP7 SRT-15 (Subscription Racing Technology for 2015, Grant agreement no.: 257843 | Topic: Big Data Processing
+
+Principal Investigator per il progetto FP7 STREAM (Scalable Autonomic Streaming Middleware for Real-time Processing of Massive Data Flows), Grant agreement no. 216181 | Topic: Real-Time Processing di flussi di dati massivi 
+
+Principal Investigator per il progetto FP7 INSPIRE-INCO (INcreasing Security and Protection through Infrastructure Resilience INternational COoperation), Grant agreement no.: 248737 | Topic: SCADA system protection
+
+Principal Investigator per il progetto FP7 INTERSECTION (INfrastructure for heTErogeneous, Resilient, SEcure, Complex, Tightly Inter-Operating Networks), Grant agreement no. 216585 | Topic: Protezione di reti etereogenee
+
+Partecipante al consorzio PRIN DOSSIER (aDvanced mOnitoring SyStem wIth Enhanced secuRity) 
+
+Partecipante al consorzio PRIN S2 (Safe and Secure Industrial Internet of Things)
+
+Partecipante al consorzio PRIN TENACE (Protezione delle Infrastrutture Critiche Nazionali da Minacce Cibernetiche), Protocollo  20103P34XC_007  
+
+Partecipante al Programma di ricerca PRIN DOTS-LCCI (Progettazione e Valutazione di Architetture Resilienti per Infrastrutture Critiche), Protocollo 2008LWRBHF_005
+
+Partecipazione a comitati editoriali di riviste scientifiche
+
+Membro dell'Editorial Board della rivista, Fascia SJR Q2, IF 1.968, "Security and Communication Networks", John Wiley & Sons, Inc., ISSN: 1939-0114 (Print), ISSN: 1939-0122 (Online), DOI: 10.1155/2037, https://www.hindawi.com/journals/scn/editors/
+
+Topic Editor per la rivista SJR Q1/Q2, IF 3.847, MDPI Sensors, ISSN 1424-3210, https://www.mdpi.com/journal/sensors/topic_editors
+
+4) CONSEGUIMENTO DELLA TITOLARITÀ DI BREVETTI NEI SETTORI IN CUI È RILEVANTE;
+Luigi Coppolino è Co-fondatore dello Spin-Off universitario TrustUp s.r.l. (www.trustup.it), che mira a commercializzare soluzioni per il Privacy Preserving Computing. Lo spin-off ha ottenuto finanziamenti Europei nell’ambito dei progetti Horizon Europe Certify (aCtive sEcurity foR connecTed devIces liFecYcles), Grant agreement ID: 101069471, e ENCRYPT (A scalable and practical privacy-preserving framework) , Grant agreement ID: 101070670, e varie consulenze, anche per aziende di primaria importanza nel mondo delle Identità Digitali. La ricerca industriale che l’azienda sta conducendo nell’ambito di tali attività ha l’obiettivo di sviluppare un prodotto che sfrutti soluzioni di Privacy Preserving Computing per offrire specifici servizi in post-quantum safe. I dettagli dell’attività sono coperti da un NDA tuttavia si sta procedendo con le attività propedeutiche alla registrazione di un brevetto che sarà oggetto di attività commerciale.
+
+5) CONSEGUIMENTO DI PREMI E RICONOSCIMENTI NAZIONALI E INTERNAZIONALI PER ATTIVITÀ DI RICERCA;
+
+Distinguished Paper award alla14th European Dependable Computing Conference, 2018, per il paper “Exploiting New CPU Extensions for Secure Exchange of eHealth Data at the EU Level”, http://edcc2018.info.uaic.ro/program.html
+
+Il corso di Architettura dei Sistemi a Microprocessore tenuto dal Luigi Coppolino presso l’Università degli Studi di Napoli Parthenope, nel 2014 ha ricevuto una speciale menzione dal blog di ST Microelectronics che lo definisce “innovativo”, https://www.pepite.info/blog/il-talento-non-esiste-2/
+
+2017 - Beneficiario, come da DR n° del 05-04-2017, a seguito di valutazione comparativa indetta dall’Università degli Studi di Napoli Parthenope, del fondo aggiuntivo per la premialità della Ricerca.
+
+2017 - Beneficiario, come da DR n° del 05-04-2017, a seguito di valutazione comparativa indetta dall’Università degli Studi di Napoli Parthenope, di un contributo per la ricerca di gruppo. 
+
+2014 - Assegnatario del contributo “Una tantum”, a seguito di valutazione comparativa tra i professori ed i ricercatori dell’Università degli Studi di Napoli Parthenope, per gli anni 2011, 2012, 2013, come da Decreto Rettorale n° 990/2014.
+
+Febbraio 2006 - International TIM Award al SIMAGINE contest 2006 (Barcellona – Spagna) - http://www.simagine.axalto.com/simagine2006_results.asp.
+Nell’ambito del 3GSM Forum, al progetto “Trusted SIM - The SIM Card brings Trusted Computing into Mobile Phones”, presentato da Luigi Coppolino alla settima edizione del concorso internazionale SIMAGINE indetto da Axalto, SUN Microsystem, Samsung, è stato assegnato il premio TIM Award. Il progetto trattava Smart Card, Antivirus, Trusted Computing DRM.
+
+6) PARTECIPAZIONE IN QUALITÀ DI RELATORE/RELATRICE A CONGRESSI E CONVEGNI DI INTERESSE INTERNAZIONALE.
+
+Partecipazione a comitati organizzatori di congressi e convegni internazionali:
+
+PC member: 5th Workshop on Intelligent Internet of Things Security and Privacy (WISP) nell’ambito della 21st International Conference on Distributed Computing and Artificial Intelligence (DCAI’24), 
+
+Session Chair: The Italian Conference on CyberSecurity (ITASEC) 2023, Session: 5B - Attacks and Defence, https://agenda-2023.itasec.it/session/49
+
+PC Member: The Italian Conference on CyberSecurity (ITASEC) 2022, https://cybersecnatlab.it/itasec22/
+
+PC Member: 30th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2022), Special Session on Security in Parallel, Distributed and Network-Based Computing (SPDNS), https://www.computer.org/csdl/proceedings/pdp/2022/1CFRSRKyZbO
+
+PC Member: IEEE International Conference on Digital Health, IEEE ICDH 2021https://conferences.computer.org/icdh/2021/
+
+PC Member: The Italian Conference on CyberSecurity (ITASEC) 2021, https://2021.itasec.it/about-us/
+
+PC Member: 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2020), Special Session on Security in Parallel, Distributed and Network-Based Computing (SPDNS), https://www.computer.org/csdl/proceedings/pdp/2020/1jPaZcNzUGY
+
+PC Member: 27th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2019), Special Session on Security in Parallel, Distributed and Network-Based Computing (SPDNS), https://www.computer.org/csdl/proceedings/pdp/2019/18Av5K0dLMc
+
+PC Member: 2019 IEEE 28th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)
+
+PC Member: MobiSec 2019 The 4th International Symposium on Mobile Internet Security (In conjunction with Future-ICT 2019), https://isyou.info/conf/mobisec19/
+
+PC Member: 10th International Symposium on Cyberspace Safety and Security, CSS 2018, http://css2018.di.unisa.it/index.php/committee/
+
+PC Member: 26th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2018), Special Session on Security in Parallel, Distributed and Network-Based Computing (SPDNS), March 21-23, 2018, Cambridge, UK (http://www.pdp2018.org/specialsessions/snds.html)
+
+PC Member: 12th International Conference on Green, Pervasive and Cloud Computing (GPC-2017), 11-14 May 2017, Cetara, Italy (https://gpc2017.di.unisa.it/gpc2017/index.php/organization/)
+
+PC Member: ACM International Conference on Distributed and Event-Based Systems (DEBS017) Poster and Demonstration Track (http://www.debs2017.org/
+
+PC Member: 25th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing (PDP 2017), Special Session on Security in Parallel, Distributed and Network-Based Computing (SPDNS), March 6-8, 2017, St. Petersburg, Russia (http://www.pdp2017.org/spdns.html)
+
+PC Member: MobiSec 2016, the 2016 International Symposium on Mobile Internet Security, 13 ~ 16 July 2016, Taichung, Taiwan (http://isyou.info/conf/mobisec16/)
+
+PC Member: 18th IEEE International Conferences on Computational Science and Engineering (CSE2015). 21-23 October 2015 (https://www.computer.org/csdl/proceedings/cse/2015/8297/00/8297z016.pdf)
+
+General Co-Chair: The First International Workshop on Real-time Big Data Analytics for Critical Infrastructure Protection (BIG4CIP 2014), collocated with: Tenth European Dependable Computing Conference - EDCC 2014 (http://big4cip.altervista.org/)
+
+PC Member: EIDWT-2014 , The 5-th International Conference on Emerging Intelligent Data and Web Technologies (http://voyager.ce.fit.ac.jp/conf/eidwt/2014/comitees.html#track10 )
+
+PC Member: 5th International Workshop on Adaptive and DependAble Mobile Ubiquitous Systems ADAMUS 2011, Hong Kong, China, June 27-30 2011 (https://www.computer.org/csdl/proceedings/dsnw/2011/0374/00/05958786.pdf)
+
+PC Member: High Performance Computing and Communications: First International Conference, HPCC 2005, Sorrento, Italy, September 21-23, 2005
+
+Invited talks:
+
+2024 Workshop: Security Services for Connected Devices, co-located NECS  - PhD Winter School, Presentazione dei risultati del progetto Horizon Europe, Certify, https://necs-winterschool.disi.unitn.it/workshop-program/
+
+2023 Workshop: Security Services for Connected Devices, co-located NECS  - PhD Winter School, Presentazione dei risultati del progetto Horizon Europe, Certify, http://2023.necs-winterschool.disi.unitn.it/program/
+
+4th International Workshop on Next Generation Security Operations Centers (NG-SOC 2022), co-located with the prestigious International Conference on Availability, Reliability and Security (ARES 2022), Presentazione dei risultati del progetto H2020 CyberSEAS, 
+
+Panelist at Workshop on EU-US cooperation opportunities in cyber security research: Thursday, 10 July 2014
+
+Panelist at 7th ETSI Security Workshop, SESSION 4: SECURITY IN THE CLOUD, Sophia Antipolis, France, 18-19 JANUARY 2012, Titolo Intervento: Enhancing SIEM Technology for Protecting Critical Infrastructures
+
+7) CONSISTENZA COMPLESSIVA DELLA PRODUZIONE SCIENTIFICA.
+spazio riservato alla indicazione della produzione scientifica complessiva con esclusione di quanto indicato al punto 1). 
+(NB per ciascuna pubblicazione sottoelencata è necessario riportare l’indicazione dell’autore/autrice o degli/delle autori/autrici, il titolo dell’opera, la rivista, l’editore e la data di pubblicazione)
+
+Luigi Coppolino è autore di 91 lavori di cui 28 su riviste indicizzate (23 su riviste ad oggi classificate Q1 e Q2 di cui 15 negli ultimi 5 anni)
+
+B.7.a) Pubblicazioni su riviste internazionali
+1) Coppolino L.; D'Antonio S.; Giuliano V.; Mazzeo G.; Romano L., A framework for Seveso-compliant cyber-physical security testing in sensitive industrial plants, 2022 Computers in Industry, Elsevier B.V., vol. 136, DOI: 10.1016/j.compind.2021.103589
+2) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L., PriSIEM: Enabling privacy-preserving Managed Security Services, 2022 Journal of Network and Computer Applications, Academic Press, vol. 203, DOI: 10.1016/j.jnca.2022.103397
+3) Amato F.; Coppolino L.; Mercaldo F.; Moscato F.; Nardone R.; Santone A., CAN-Bus Attack Detection with Deep Learning, 2021 IEEE Transactions on Intelligent Transportation Systems, Institute of Electrical and Electronics Engineers Inc., vol. 22, no. 8, pp. 5081 - 5090, DOI: 10.1109/TITS.2020.3046974
+4) Amato F.; Coppolino L.; Cozzolino G.; Mazzeo G.; Moscato F.; Nardone R., Enhancing random forest classification with NLP in DAMEH: A system for DAta Management in eHealth Domain, 2021 Neurocomputing, Elsevier B.V., vol. 444, pp. 79 - 91, DOI: 10.1016/j.neucom.2020.08.091
+5) Coppolino L.; D'Antonio S.; Formicola V.; Mazzeo G.; Romano L., VISE: Combining Intel SGX and Homomorphic Encryption for Cloud Industrial Control Systems, 2021 IEEE Transactions on Computers, IEEE Computer Society, vol. 70, no. 5, pp. 711 - 724, DOI: 10.1109/TC.2020.2995638
+6) Amato F.; Coppolino L.; D'Antonio S.; Mazzocca N.; Moscato F.; Sgaglione L., An abstract reasoning architecture for privacy policies monitoring, 2020 Future Generation Computer Systems, Elsevier B.V., vol. 106, pp. 393 - 400, DOI: 10.1016/j.future.2020.01.019
+7) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L., A comparative analysis of emerging approaches for securing java software with Intel SGX, 2019 Future Generation Computer Systems, Elsevier B.V., vol. 97, , pp. 620 - 633, DOI: 10.1016/j.future.2019.03.018
+8) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L., A comprehensive survey of hardware-assisted security: From the edge to the cloud, 2019 Internet of Things (Netherlands), Elsevier B.V., vol. 6,  DOI: 10.1016/j.iot.2019.100055
+9) Mazzeo G.; Coppolino L.; D'Antonio S.; Mazzariello C.; Romano L., SIL2 assessment of an Active/Standby COTS-based Safety-Related system, 2018 Reliability Engineering and System Safety, Elsevier Ltd, vol. 176,  pp. 125 - 134, DOI: 10.1016/j.ress.2018.04.009
+10) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L., Cloud security: Emerging threats and current solutions, 2017 Computers and Electrical Engineering, Elsevier Ltd, vol. 59,  pp. 126 - 140, DOI: 10.1016/j.compeleceng.2016.03.004
+11) Cilardo A.; Coppolino L.; Mazzocca N.; Romano L., Elliptic curve cryptography engineering, 2006 Proceedings of the IEEE, Institute of Electrical and Electronics Engineers Inc., vol. 94, no. 2, pp. 395 - 405, DOI: 10.1109/JPROC.2005.862438
+12) Coppolino L.; D’Antonio S.; Nardone R.; Romano L., A self-adaptation-based approach to resilience improvement of complex internets of utility systems, 2023 Environment Systems and Decisions, Springer, vol. 43, no. 4, pp. 708 - 720, DOI: 10.1007/s10669-023-09937-8
+13) Staffa M.; Sgaglione L.; Mazzeo G.; Coppolino L.; D'Antonio S.; Romano L.; Gelenbe E.; Stan O.; Carpov S.; Grivas E.; Campegiani P.; Castaldo L.; Votis K.; Koutkias V.; Komnios I., An OpenNCP-based Solution for Secure eHealth Data Exchange, 2018 Journal of Network and Computer Applications, Academic Press, vol. 116,  pp. 65 - 85, DOI: 10.1016/j.jnca.2018.05.012
+14) Coppolino L.; D'Antonio S.; Formicola V.; Romano L., A framework for mastering heterogeneity in multi-layer security information and event correlation, 2016 Journal of Systems Architecture, Elsevier, vol. 62,  pp. 78 - 88, DOI: 10.1016/j.sysarc.2015.11.010
+15) Coppolino L.; D’Antonio S.; Formicola V.; Massei C.; Romano L., Use of the Dempster–Shafer theory to detect account takeovers in mobile money transfer services, 2015 Journal of Ambient Intelligence and Humanized Computing, Springer Verlag, vol. 6, no. 6, pp. 753 - 762, DOI: 10.1007/s12652-015-0276-9
+16) Campanile F.; Coppolino L.; Giordano S.; Romano L., A business process monitor for a mobile phone recharging system, 2008 Journal of Systems Architecture, Elsevier, vol. 54, no. 9, pp. 843 - 848, DOI: 10.1016/j.sysarc.2008.02.005
+17) Coppolino L.; Sgaglione L.; D’antonio S.; Magliulo M.; Romano L.; Pacelli R., Risk Assessment Driven Use of Advanced SIEM Technology for Cyber Protection of Critical e-Health Processes, 2022 SN Computer Science, Springer, vol. 3, no. 1, DOI: 10.1007/s42979-021-00858-4
+18) Coppolino L.; D'Antonio S.; Formicola V.; Romano L., Applying extensions of evidence theory to detect frauds in financial infrastructures, 2015 International Journal of Distributed Sensor Networks, Hindawi Publishing Corporation, vol. 2015,  DOI: 10.1155/2015/980629
+19) Cicotti G.; Coppolino L.; D’Antonio S.; Romano L., Runtime model checking for sla compliance monitoring and qos prediction, 2015 Journal of Wireless Mobile Networks, Ubiquitous Computing, and Dependable Applications, Sementic Scholar, vol. 6, no. 2, pp. 4 - 20, DOI: 10.22667/JOWUA.2015.06.31.004
+20) Coppolino L.; D'Antonio S.; Romano L., Exposing vulnerabilities in electric power grids: An experimental approach, 2014 International Journal of Critical Infrastructure Protection, Elsevier B.V., vol. 7, no. 1, pp. 51 - 60, DOI: 10.1016/j.ijcip.2014.01.003
+21) Natsiavas P.; Mazzeo G.; Faiella G.; Campegiani P.; Dumortier J.; Stan O.; Nalin M.; Mari Martinez D.; Theodouli A.; Moschou K.; Votis K.; Coppolino L.; Romano M.; Tzovaras D.; Clemente F.; Gelenbe E.; Romano L., Developing an infrastructure for secure patient summary exchange in the EU context: Lessons learned from the KONFIDO project, 2021 Health Informatics Journal, SAGE Publications Ltd, vol. 27, no. 2, DOI: 10.1177/14604582211021459
+22) Coppolino L.; Romano L.; Scaletti A.; Sgaglione L., Fuzzy set theory-based comparative evaluation of cloud service offerings: an agro-food supply chain case study, 2021 Technology Analysis and Strategic Management, Routledge, vol. 33, no. 8, pp. 900 - 913, DOI: 10.1080/09537325.2020.1850673
+23) Natsiavas P.; Rasmussen J.; Voss-Knude M.; Votis K.; Coppolino L.; Campegiani P.; Cano I.; Marí D.; Faiella G.; Clemente F.; Nalin M.; Grivas E.; Stan O.; Gelenbe E.; Dumortier J.; Petersen J.; Tzovaras D.; Romano L.; Komnios I.; Koutkias V., Comprehensive user requirements engineering methodology for secure and interoperable health data exchange, 2018 BMC Medical Informatics and Decision Making, BioMed Central Ltd, vol. 18, no. 1, DOI: 10.1186/s12911-018-0664-0
+24) Coppolino L.; D'Antonio S.; Romano L.; Aisopos F.; Tserpes K., Real-time QoS monitoring from the end user perspective in large scale social networks, 2017 International Journal of Computational Science and Engineering, Inderscience Publishers, vol. 14, no. 2, pp. 93 - 104, DOI: 10.1504/IJCSE.2017.082875
+25) Cicotti G.; Coppolino L.; D'Antonio S.; Romano L., How to monitor QoS in cloud infrastructures: The QoSMONaaS approach, 2015 International Journal of Computational Science and Engineering, Inderscience Publishers, vol. 11, no. 1, pp. 29 - 45, DOI: 10.1504/IJCSE.2015.071359
+26) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L., Securing the weak link of federated systems via trusted execution: A case study from the eHealth domain, 2019 International Journal of Critical Computer-Based Systems, Inderscience Publishers, vol. 9, no. 4, pp. 293 - 317, DOI: 10.1504/IJCCBS.2019.106818
+27) Coppolino L.; Romano L.; Bondavalli A.; Daidone A., A hidden Markov model based intrusion detection system for wireless sensor networks, 2012 International Journal of Critical Computer-Based Systems, Inderscience Publishers, vol. 3, no. 3, pp. 210 - 228, DOI: 10.1504/IJCCBS.2012.050305
+28) V., Casola; L., Coppolino; M., Rak, An Architectural model for Trusted Domains in Web Services, 2006, Journal of Information Assurance and Security, Dynamic Publishers, Inc. - ISSN 1554-1010. stampa. vol. 1, no. 2, pp. 107-118.
+
+
+B.7.b) Capitoli in Libri
+29) Cerullo G.; Coppolino L.; D’Antonio S.; Formicola V.; Papale G.; Ragucci B., Enabling convergence of physical and logical security through intelligent event correlation, 2016 Studies in Computational Intelligence, Springer Verlag, vol. 616,  pp. 427 - 437, DOI: 10.1007/978-3-319-25017-5_40
+30) Coppolino L.; D’Antonio S.; Formicola V.; Massei C.; Romano L., Use of the Dempster-Shafer theory for fraud detection: The mobile money transfer case study, 2015 Studies in Computational Intelligence, Springer Verlag, vol. 570,  pp. 465 - 474, DOI: 10.1007/978-3-319-10422-5_48
+31) Coppolino L.; D'Antonio S.; Romano L.; Aisopos F.; Tserpes K., Effective QoS monitoring in large scale social networks, 2014 Studies in Computational Intelligence, Springer Verlag, vol. 511,  pp. 249 - 259, DOI: 10.1007/978-3-319-01571-2_30
+32) Coppolino L.; Romano L., Open Issues in IDS Design for Wireless Biomedical Sensor Networks, 2010 Smart Innovation, Systems and Technologies, , vol. 6,  pp. 231 - 240, DOI: 10.1007/978-3-642-14619-0_22
+33) Romano L.; Coppolino L.; Elia I.A.; Spagnuolo G., A healthcare real-time monitoring system for multiple sensors data collection and correlation, 2009 Studies in Computational Intelligence, , vol. 226,  pp. 455 - 464, DOI: 10.1007/978-3-642-02937-0_42
+34) Coppolino L.; D’Antonio S.; Mazzeo G.; Romano L., Critical Infrastructure Protection: Where Convergence of Logical and Physical Security Technologies is a Must, 2023 Springer Series in Reliability Engineering, Springer Science and Business Media Deutschland GmbH, pp. 239 - 254, DOI: 10.1007/978-3-031-02063-6_13
+35) Coppolino L.; D’Antonio S.; Mazzeo G.; Romano L.; Sgaglione L., An Approach for Securing Cloud-Based Wide Area Monitoring of Smart Grid Systems, 2019 Lecture Notes on Data Engineering and Communications Technologies, Springer Science and Business Media Deutschland GmbH, vol. 22,  pp. 952 - 959, DOI: 10.1007/978-3-319-98530-5_87
+36) D’Antonio S.; Coppolino L.; Choraś M.; Kozik R., Distributed framework for cybersecurity of critical infrastructures, 2013 Effective Surveillance for Homeland Security: Balancing Technology and Social Issues, CRC Press, pp. 333 - 354, DOI: 10.1201/b14839
+
+B.7.c) Pubblicazioni in Atti di Conferenze Internazionali
+37) Coppolino L.; Mazzeo G.; Romano L., Awesome Trusted Execution Environment, 2023 Proceedings - 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume, DSN-S 2023, Institute of Electrical and Electronics Engineers Inc., pp. 5 - 6, DOI: 10.1109/DSN-S58398.2023.00017
+38) Coppolino L.; D'Antonio S.; Uccello F.; Lyratzis A.; Bakalis C.; Touloumtzi S.; Papoutsis I., Detection of Radio Frequency Interference in Satellite Ground Segments, 2023 Proceedings of the 2023 IEEE International Conference on Cyber Security and Resilience, CSR 2023, Institute of Electrical and Electronics Engineers Inc., pp. 648 - 653, DOI: 10.1109/CSR57506.2023.10225005
+39) Coppolino L.; Nardone R.; Petruolo A.; Romano L.; Souvent A., Exploiting Digital Twin technology for Cybersecurity Monitoring in Smart Grids, 2023 ACM International Conference Proceeding Series, Association for Computing Machinery, DOI: 10.1145/3600160.3605043
+40) Coppolino L.; Nardone R.; Petruolo A.; Romano L., Securing FIWARE with TEE Technology, 2023 Frontiers in Artificial Intelligence and Applications, IOS Press BV, vol. 371,  pp. 149 - 160, DOI: 10.3233/FAIA230231
+41) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Campegiani P., Facing the blockchain endpoint vulnerability, an SGX-based solution for secure eHealth auditing, 2021 CEUR Workshop Proceedings, CEUR-WS, vol. 2940,  pp. 298 - 308, DOI: 
+42) Andolfo L.; Coppolino L.; D’Antonio S.; Mazzeo G.; Romano L.; Ficke M.; Hollum A.; Vaydia D., Privacy-Preserving Credit Scoring via Functional Encryption, 2021 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer Science and Business Media Deutschland GmbH, vol. 12956 LNCS,  pp. 31 - 43, DOI: 10.1007/978-3-030-87010-2_3
+43) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Bonetti I.; Spagnuolo E., The protection of LP-WAN Endpoints via TEE: A Chemical Storage Case Study, 2021 Proceedings - 2021 IEEE International Symposium on Software Reliability Engineering Workshops, ISSREW 2021, Institute of Electrical and Electronics Engineers Inc., pp. 345 - 352, DOI: 10.1109/ISSREW53611.2021.00100
+44) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L.; Cotroneo D.; Scognamiglio A., Privacy Preserving Intrusion Detection Via Homomorphic Encryption, 2019 Proceedings - 2019 IEEE 28th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises, WETICE 2019, Institute of Electrical and Electronics Engineers Inc., pp. 321 - 326, DOI: 10.1109/WETICE.2019.00073
+45) Coppolino L.; D'Antonio S.; Romano L.; Sgaglione L.; Magliulo M.; Pacelli R., Protecting critical business processes of smart hospitals from cyber attacks, 2019 Proceedings - 15th International Conference on Signal Image Technology and Internet Based Systems, SISITS 2019, Institute of Electrical and Electronics Engineers Inc., pp. 363 - 367, DOI: 10.1109/SITIS.2019.00065
+46) Diamantopoulos S.; Karamitros D.; Romano L.; Coppolino L.; Koutkias V.; Votis K.; Stan O.; Campegiani P.; Martinez D.M.; Nalin M.; Baroni I.; Clemente F.; Faiella G.; Mesaritakis C.; Grivas E.; Rasmussen J.; Petersen J.; Cano I.; Puigdomenech E.; Gelenbe E.; Dumortier J.; Voss-KnudeVoronkov M., Secure cross-border exchange of health related data: The KONFIDO approach, 2019 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer, vol. 11874 LNCS,  pp. 318 - 327, DOI: 10.1007/978-3-030-34914-1_30
+47) Diamantopoulos S.; Nalin M.; Baroni I.; Clemente F.; Faiella G.; Mesaritakis C.; Grivas E.; Rasmussen J.; Petersen J.; Cano I.; Puigdomenech E.; Karamitros D.; Gelenbe E.; Dumortier J.; Voss-Knudevoronkov M.; Romano L.; Coppolino L.; Koutkias V.; Votis K.; Stan O.; Campegiani P.; Martinez D.M., Secure cross-border exchange of health related data: The KONFIDO approach, 2019 Proceedings - 2019 15th European Dependable Computing Conference, EDCC 2019, Institute of Electrical and Electronics Engineers Inc., pp. 73 - 74, DOI: 10.1109/EDCC.2019.00024
+48) Coppolino L.; D'Antonio S.; Mazzeo G.; Papale G.; Sgaglione L.; Campanile F., An Approach for Securing Critical Applications in Untrusted Clouds, 2018 Proceedings - 26th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, PDP 2018, Institute of Electrical and Electronics Engineers Inc., pp. 436 - 440, DOI: 10.1109/PDP2018.2018.00076
+49) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L., Exploiting New CPU Extensions for Secure Exchange of eHealth Data at the EU Level, 2018 Proceedings - 2018 14th European Dependable Computing Conference, EDCC 2018, Institute of Electrical and Electronics Engineers Inc., pp. 17 - 24, DOI: 10.1109/EDCC.2018.00015
+50) Rasmussen J.; Natsiavas P.; Votis K.; Moschou K.; Campegiani P.; Coppolino L.; Cano I.; Marí D.; Faiella G.; Stan O.; Abdelrahman O.; Nalin M.; Baroni I.; Voss-Knude M.; Vella V.A.; Grivas E.; Mesaritakis C.; Dumortier J.; Petersen J.; Tzovaras D.; Romano L.; Komnios I.; Koutkias V., Gap analysis for information security in interoperable solutions at a systemic level: The KONFIDO approach, 2018 IFMBE Proceedings, Springer Verlag, vol. 66,  pp. 75 - 79, DOI: 10.1007/978-981-10-7419-6_13
+51) Coppolino L.; D'Antonio S.; Mazzeo G.; Romano L.; Sgaglione L., How to protect public administration from cybersecurity threats: The COMPACT project, 2018 Proceedings - 32nd IEEE International Conference on Advanced Information Networking and Applications Workshops, WAINA 2018, Institute of Electrical and Electronics Engineers Inc., vol. 2018-January,  pp. 573 - 578, DOI: 10.1109/WAINA.2018.00147
+52) Staffa M.; Coppolino L.; Sgaglione L.; Gelenbe E.; Komnios I.; Grivas E.; Stan O.; Castaldo L., KONFIDO: An OpenNCP-based secure ehealth data exchange system, 2018 Communications in Computer and Information Science, Springer Verlag, vol. 821,  pp. 11 - 27, DOI: 10.1007/978-3-319-95189-8_2
+53) Coppolino L.; Dantonio S.; Romano L.; Sgaglione L.; Staffa M., Addressing Security Issues in the eHeatlh Domain Relying on SIEM Solutions, 2017 Proceedings - International Computer Software and Applications Conference, IEEE Computer Society, vol. 2,  pp. 510 - 515, DOI: 10.1109/COMPSAC.2017.45
+54) Campanile F.; Coppolino L.; Dantonio S.; Lev L.; Mazzeo G.; Romano L.; Sgaglione L.; Tessitore F., Cloudifying Critical Applications: A Use Case from the Power Grid Domain, 2017 Proceedings - 2017 25th Euromicro International Conference on Parallel, Distributed and Network-Based Processing, PDP 2017, Institute of Electrical and Electronics Engineers Inc., pp. 363 - 370, DOI: 10.1109/PDP.2017.50
+55) Coppolino L.; D'Antonio S.; Romano L.; Staffa M., KONFIDO Project: A Secure Infrastructure Increasing Interoperability on a Systemic Level among eHealth Services Across Europe, 2017 Proceedings - 2017 IEEE International Conference on Internet of Things, IEEE Green Computing and Communications, IEEE Cyber, Physical and Social Computing, IEEE Smart Data, iThings-GreenCom-CPSCom-SmartData 2017, Institute of Electrical and Electronics Engineers Inc., vol. 2018-January,  pp. 342 - 347, DOI: 10.1109/iThings-GreenCom-CPSCom-SmartData.2017.57
+56) Martino R.; Dantonio S.; Coppolino L.; Romano L., Security in Cross-Border Medical Data Interchange: A Technical Analysis and a Discussion of Possible Improvements, 2017 Proceedings - International Computer Software and Applications Conference, IEEE Computer Society, vol. 2,  pp. 317 - 322, DOI: 10.1109/COMPSAC.2017.209
+57) Rein A.; Rieke R.; Jäger M.; Kuntze N.; Coppolino L., Trust establishment in cooperating cyber-physical systems, 2016 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer Verlag, vol. 9588,  pp. 31 - 47, DOI: 10.1007/978-3-319-40385-4_3
+58) Baselice F.; Coppolino L.; D'Antonio S.; Ferraioli G.; Sgaglione L., A DBSCAN based approach for jointly segment and classify brain MR images, 2015 Proceedings of the Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBS, Institute of Electrical and Electronics Engineers Inc., vol. 2015-November,  pp. 2993 - 2996, DOI: 10.1109/EMBC.2015.7319021
+59) Coppolino L.; D'Antonio S.; Romano L.; Papale G.; Sgaglione L.; Campanile F., Direct Debit Transactions: A Comprehensive Analysis of Emerging Attack Patterns, 2015 Proceedings - 2015 10th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, 3PGCIC 2015, Institute of Electrical and Electronics Engineers Inc., pp. 713 - 717, DOI: 10.1109/3PGCIC.2015.24
+60) Coppolino L.; D’Antonio S.; Romano L.; Campanile F.; de Carvalho A.V., Effective visualization of a big data banking application, 2015 Smart Innovation, Systems and Technologies, Springer Science and Business Media Deutschland GmbH, vol. 40,  pp. 57 - 68, DOI: 10.1007/978-3-319-19830-9_6
+61) Coppolino L.; D’Antonio S.; Massei C.; Romano L., Efficient supply chain management via federation-based integration of legacy ERP systems, 2015 Communications in Computer and Information Science, Springer Verlag, vol. 532,  pp. 378 - 387, DOI: 10.1007/978-3-319-22689-7_29
+62) Coppolino L.; Dalessandro V.; Dantonio S.; Levy L.; Romano L., My smart home is under attack, 2015 Proceedings - IEEE 18th International Conference on Computational Science and Engineering, CSE 2015, Institute of Electrical and Electronics Engineers Inc., pp. 145 - 151, DOI: 10.1109/CSE.2015.28
+63) Coppolino L.; D'Antonio S.; Formicola V.; Romano L., Real-time Security & Dependability monitoring: Make it a bundle, 2014 Proceedings - International Carnahan Conference on Security Technology, Institute of Electrical and Electronics Engineers Inc., vol. 2014-October, no. October, DOI: 10.1109/CCST.2014.6987018
+64) Buccafurri F.; Coppolino L.; D'Antonio S.; Garofalo A.; Lax G.; Nocera A.; Romano L., Trust-based intrusion tolerant routing in wireless sensor networks, 2014 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer Verlag, vol. 8666 LNCS,  pp. 214 - 229, DOI: 10.1007/978-3-319-10506-2_15
+65) Garofalo A.; Di Sarno C.; Coppolino L.; D'Antonio S., A GPS spoofing resilient WAMS for smart grid, 2013 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 7869 LNCS,  pp. 134 - 147, DOI: 10.1007/978-3-642-38789-0_12
+66) Coppolino L.; D'Antonio S.; Garofalo A.; Romano L., Applying data mining techniques to Intrusion Detection in Wireless Sensor Networks, 2013 Proceedings - 2013 8th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, 3PGCIC 2013, IEEE Computer Society, pp. 247 - 254, DOI: 10.1109/3PGCIC.2013.43
+67) Coppolino L.; D'Antonio S.; Formicola V.; Romano L., Enhancing SIEM technology to protect critical infrastructures, 2013 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 7722 LNCS,  pp. 10 - 21, DOI: 10.1007/978-3-642-41485-5_2
+68) Cilardo A.; Mazzocca N.; Coppolino L., TrustedSIM: Towards unified mobile security, 2013 Proceedings - IEEE 10th International Conference on Ubiquitous Intelligence and Computing, UIC 2013 and IEEE 10th International Conference on Autonomic and Trusted Computing, ATC 2013, , pp. 563 - 568, DOI: 10.1109/UIC-ATC.2013.74
+69) Afzaal M.; Di Sarno C.; Coppolino L.; D'Antonio S.; Romano L., A resilient architecture for forensic storage of events in critical infrastructures, 2012 Proceedings of IEEE International Symposium on High Assurance Systems Engineering, , pp. 48 - 55, DOI: 10.1109/HASE.2012.9
+70) Granadillo G.G.; Jacob G.; Debar H.; Coppolino L., Combination approach to select optimal countermeasures based on the RORI index, 2012 2nd International Conference on Innovative Computing Technology, INTECH 2012, , pp. 38 - 45, DOI: 10.1109/INTECH.2012.6457801
+71) Romano L.; D'Antonio S.; Formicola V.; Coppolino L., Protecting the WSN zones of a critical infrastructure via enhanced SIEM technology, 2012 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 7613 LNCS,  pp. 222 - 234, DOI: 10.1007/978-3-642-33675-1_20
+72) Cicotti G.; Coppolino L.; Cristaldi R.; D'Antonio S.; Romano L., QoS monitoring in a cloud services environment: The SRT-15 approach, 2012 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer Verlag, vol. 7155 LNCS, no. PART 1, pp. 15 - 24, DOI: 10.1007/978-3-642-29737-3_3
+73) Adinolfi O.; Cristaldi R.; Coppolino L.; Romano L., QoS-MONaaS: A portable architecture for QoS monitoring in the cloud, 2012 8th International Conference on Signal Image Technology and Internet Based Systems, SITIS 2012r, , pp. 527 - 532, DOI: 10.1109/SITIS.2012.82
+74) Rieke R.; Coppolino L.; Hutchison A.; Prieto E.; Gaber C., Security and reliability requirements for advanced security event management, 2012 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), Springer Verlag, vol. 7531 LNCS,  pp. 171 - 180, DOI: 10.1007/978-3-642-33704-8_15
+75) Ficco M.; Daidone A.; Coppolino L.; Romano L.; Bondavalli A., An event correlation approach for fault diagnosis in SCADA infrastructures, 2011 ACM International Conference Proceeding Series, , pp. 15 - 20, DOI: 10.1145/1978582.1978586
+76) Coppolino L.; D'Antonio S.; Formicola V.; Romano L., Integration of a system for critical infrastructure protection with the OSSIM SIEM platform: A dam case study, 2011 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 6894 LNCS,  pp. 199 - 212, DOI: 10.1007/978-3-642-24270-0_15
+77) Coppolino L.; D'Antonio S.; Formicola V.; Oliviero F.; Romano L., On the security of the terminal operations for container shipping in multimodal transport: The SIS-TEMA project, 2011 6th International Conference on Risks and Security of Internet and Systems, CRiSIS 2011, , DOI: 10.1109/CRiSIS.2011.6061830
+78) Coppolino L.; D'Antonio S.; Elia I.A.; Romano L., Security analysis of smart grid data collection technologies, 2011 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 6894 LNCS,  pp. 143 - 156, DOI: 10.1007/978-3-642-24270-0_11
+79) D'Antonio S.; Coppolino L.; Elia I.A.; Formicola V., Security issues of a phasor data concentrator for smart grid infrastructure, 2011 ACM International Conference Proceeding Series, , pp. 3 - 8, DOI: 10.1145/1978582.1978584
+80) Coppolino L.; D'antonio S.; Romano L.; Spagnuolo G., An intrusion detection system for critical information infrastructures using wireless sensor network technologies, 2010 2010 5th International Conference on Critical Infrastructure, CRIS 2010 - Proceedings, , DOI: 10.1109/CRIS.2010.5617547
+81) Coppolino L.; De Mari D.; Romano L.; Vianello V., SLA compliance monitoring through semantic processing, 2010 Proceedings - IEEE/ACM International Workshop on Grid Computing, , pp. 252 - 258, DOI: 10.1109/GRID.2010.5697975
+82) Ficco M.; Coppolino L.; Romano L., A weight-based symptom correlation approach to SQL injection attacks, 2009 Proceedings - 2009 4th Latin-American Symposium on Dependable Computing, LADC 2009, , pp. 9 - 16, DOI: 10.1109/LADC.2009.14
+83) Coppolino L.; D'Antonio S.; Esposito M.; Romano L., Exploiting diversity and correlation to improve the performance of intrusion detection systems, 2009 2009 International Conference on Network and Service Security, N2S 2009, , DOI: 
+84) Coppolino L.; D'Antonio S.; Elia I.A.; Romano L., From intrusion detection to intrusion detection and diagnosis: An ontology-based approach, 2009 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 5860 LNCS,  pp. 192 - 202, DOI: 10.1007/978-3-642-10265-3_18
+85) Cilardo A.; Mazzocca N.; Coppolino L., Virtual scan chains far online testing of FPGA-based embedded systems, 2008 Proceedings - 11th EUROMICRO Conference on Digital System Design Architectures, Methods and Tools, DSD 2008, IEEE Computer Society, vol. 2008-January,  pp. 360 - 366, DOI: 10.1109/DSD.2008.102
+86) Campanile F.; Cilardo A.; Coppolino L.; Romano L., Adaptable parsing of real-time data streams, 2007 Proceedings - 15th EUROMICRO International Conference on Parallel, Distributed and Network-Based Processing, PDP 2007, , pp. 412 - 418, DOI: 10.1109/PDP.2007.16
+87) Cilardo A.; Coppolino L.; Mazzeo A.; Romano L., Combining programmable hardware and Web Services technologies for delivering high-performance and interoperable security, 2007 Proceedings - 15th EUROMICRO International Conference on Parallel, Distributed and Network-Based Processing, PDP 2007, , pp. 381 - 386, DOI: 10.1109/PDP.2007.30
+88) Cilardo A.; Coppolino L.; Mazzeo A.; Romano L., Performance evaluation of security services: An experimental approach, 2007 Proceedings - 15th EUROMICRO International Conference on Parallel, Distributed and Network-Based Processing, PDP 2007, , pp. 387 - 394, DOI: 10.1109/PDP.2007.64
+89) Coppolino L.; Romano L.; Mazzocca N.; Salvi S., Web services workflow reliability estimation through reliability patterns, 2007 Proceedings of the 3rd International Conference on Security and Privacy in Communication Networks, SecureComm, , pp. 107 - 115, DOI: 10.1109/SECCOM.2007.4550316
+90) Casola V.; Coppolino L.; Mazzeo A.; Mazzocca N.; Rak M., Design and implementation of TruMan, a Trust Manager component for distributed systems, 2006 Proceedings - Second International Workshop on Security, Privacy and Trust in Pervasive and Ubiquitous Computing, SecPerU 2006, IEEE Computer Society, vol. 2006,  pp. 40 - 46, DOI: 10.1109/SECPERU.2006.7
+91) Cilardo A.; Coppolino L.; Mazzeo A.; Romano L., High-performance and interoperable security services for mobile environments, 2005 Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), , vol. 3726 LNCS,  pp. 1064 - 1069, DOI: 10.1007/11557654_118
+
+
+C) ATTIVITÀ GESTIONALI, ORGANIZZATIVE E DI SERVIZIO 
+
+Luigi Coppolino è Coordinatore del Corso di Studi in Ingegneria e Scienze Informatiche per la Cybersecurity dell’Università degli Studi di Napoli. E’ Consigliere della Scuola Interdipartimentale delle Scienze, dell’Ingegneria e della Salute del proprio Ateneo, ed è membro del Collegio di Dottorato in Information and Communication Technology and Engineering. E’ stato Direttore di un master Universitario di II livello. Ha partecipato a numerose commissioni per di concorso per il proprio Ateneo ed è Membro del Comitato Tecnico Scientifico in rappresentanza dell’Università degli Studi di Napoli Parthenope nella Fondazione ITS Academy “ICT CAMPUS”.
+
+
+C1) Dal 2022 Luigi Coppolino è Coordinatore del Corso di Studi in Ingegneria e Scienze Informatica per la Cybersecurity, Dipartimento di Scienze Economiche, Giuridiche, Informatiche e Motorie (DiSEGIM) dell’Università degli Studi di Napoli Parthenope
+
+C2) Direttore dello European Master on Critical Networked Systems, edizioni IV (2010/11) V (2011/12), master universitario di II livello, organizzato dall’Università degli Studi di Napoli Parthenope in collaborazione con Universitad Politecnica de Madrid (UPM) e Technische Universtad Dresden (TUD). 
+
+C3) Dal 2022 in qualità di Coordinatore di CdS è Consigliere della Scuola Interdipartimentale delle Scienze, dell’Ingegneria e della Salute
+
+C4) Dal 2019 è membro del COLLEGIO DEI DOCENTI nell'ambito del dottorato di ricerca ACCREDITATO dal Ministero dal titolo: "INFORMATION AND COMMUNICATION TECHNOLOGY AND ENGINEERING", per i cicli XXXV e XXXIX (5 CICLI), presso l'Università degli Studi di Napoli Parthenope.
+
+C5) Membro del collegio dei docenti nell'ambito del dottorato di ricerca dal titolo: "INGEGNERIA DELL'INFORMAZIONE", per i cicli dal XXIV al XXVIII (5 cicli), presso il Dipartimento di Ingegneria dell'Università degli Studi di Napoli Parthenope dal 11-12-2008 al 31-12-2015
+
+C6) Fino a febbraio 2022 è stato Rappresentante dei Professori Associati del Dipartimento di Ingegneria in senso al Consiglio della Scuola Interdipartimentale delle Scienze, dell’Ingegneria e della Salute
+
+C7) Dal 2007 è membro del Consiglio di Corso di Studi in Ingegneria dell’Informazione, Dipartimento di Ingegneria, Università degli Studi di Napoli Parthenope
+
+C8) Dal 2007 è membro del Consiglio del Dipartimento di Ingegneria presso l’Università degli Studi di Napoli Parthenope
+
+C9) Dal 2022 Coordinatore di CdS è invitato dell’ambito del Consiglio di Dipartimento di Scienze Economiche, Giuridiche, Informatiche e Motorie (DiSEGIM) dell’Università degli Studi di Napoli Parthenope
+
+C10) Membro del Comitato Tecnico Scientifico in rappresentanza dell’Università degli Studi di Napoli Parthenope nella Fondazione ITS Academy “ICT CAMPUS”  https://its-ictcampus.com/ avendo precedentemente partecipato a realizzare la proposta di istituzione della stessa su delega del Rettore degli Studi di Napoli Parthenope per il quale ha sottoscritto la costituzione della Fondazione Stessa.
+
+C11) Membro della commissione ai fini della valutazione dell’attività didattica e di ricerca svolta dal dott. Oscar TAMBURIS, sul settore concorsuale 09/H1- Sistemi di Elaborazione delle Informazioni, nominata con D.R. n. 2020/2864 del 15/09/2020, in relazione al Settore Scientifico Disciplinare INGINF/05-Sistemi di Elaborazione delle Informazioni, per la proroga del contratto RTDA presso Università degli Studi di Napoli Federico II
+
+C12) Membro della commissione giudicatrice per la selezione pubblica, per titoli e colloquio, per il reclutamento di n. 1 ricercatore con rapporto di lavoro subordinato a tempo determinato, per la durata di anni tre, ai sensi dell’art. 24, comma 3, lett. a) della Legge n. 240/2010, per lo svolgimento di attività di ricerca, di didattica, di didattica integrativa e di servizio agli studenti, per il settore concorsuale 09/H1 – SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI, settore scientifico disciplinare ING-INF/05 – SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI, per le esigenze del Dipartimento di Ingegneria Elettrica e delle Tecnologie dell'Informazione (codice identificativo – 2_RTDA_2020_36), Università degli Studi di Napoli Federico II, nomina con D.R. n._2021/1239 del 22/03/2021
+
+C13) Membro della Commissione per concorso pubblico, per titoli ed esami, per l’assunzione a tempo indeterminato a n. 1 posto categoria D – posizione economica D/1 area dell’ Area Tecnica, Tecnico – Scientifica, ed Elaborazione Dati, per le esigenze del laboratorio didattico Sistemi del Dipartimento di Ingegneria dell'Informazione ed Elettrica e Matematica applicata dell'Università di Salerno – indetto con d.d. 10.02.2023, rep. 537/20
+
+C14) Membro della Commissione Esaminatrice per un posto di “Analista Programmatore Senior” presso Società Regionale per la Sanità SpA (SO.RE.SA.), incarico conferito con delibera del CdA del 09/07/2020
+
+C15) Componente di Commissione presso Agenzia delle Dogane e dei Monopoli, nominata con D.D. prot. n. 303330 del 16 agosto 2021, successivamente rettificata con D.D. prot. n. 348874 del 20 settembre 2021, in qualità di esperto informatico per il concorso codice ADM/ING-ARCH 
+
+C16) Componente di commissione, nomina con DP CNR n. 29078 del 2 febbraio 2023, per un concorso pubblico Bando n. 367.413, presso area della ricerca di Napoli1 del Consiglio Nazionale delle Ricerche.
+
+C17) Componente di commissione per l’assunzione di 1 unità di personale con profilo professionale di Tecnologo – III livello, presso la sede istituzionale di Napoli dell'Istituto per il Rilevamento Elettromagnetico dell’Ambiente del Consiglio Nazionale delle Ricerche Bando n. 400.4 IREA PNRR. Nomina con provvedimento del Direttore dell’Istituto per il Rilevamento Elettromagnetico dell’Ambiente del Consiglio Nazionale delle Ricerche, prot. n. 0127629 del 28/04/202
+
+C18) Componente di commissione esaminatrice del concorso pubblico, per titoli e colloquio, per l’assunzione a tempo indeterminato di una unità di personale con profilo di Primo Tecnologo - II livello professionale - da assegnare all’Amministrazione Centrale del CNR con sede a Roma, Bando 367.214 PT. Nomina con decreto del Presidente del CNR prot. n.0081782 del 17/12/2020.
+
+C19) Componente di Commissione Giudicatrice della selezione pubblica per l’attribuzione di un Assegno di Ricerca, bando DDD 225_2017 del 18/12/2017, presso Dipartimento di Ingegneria dell’Università degli Studi di Napoli Parthenope. Nomina con DDD 10_2018
+
+C20) Componente Commissione Giudicatrice per l'attribuzione di un Assegno di Ricerca – (Rif. Bando: DISAE/2018-4/AR) presso il Dipartimento di Studi Aziendali ed Economici dell’Università degli Studi di Napoli Parthenope. Nomina con DDD N. 11/2018
+
+
+C21) Componente di Commissione Giudicatrice della selezione pubblica per l’attribuzione di un Assegno di Ricerca presso Università degli Studi di Napoli Parthenope, nominato con D.R. 8 del 5/01/2017 per bando emanato con DR n.905 del 17/11/2016
+
+C22) Componente della Commissione giudicatrice del concorso per titoli e colloquio per l'attribuzione di n. l borsa di ricerca (CODICE BORSA RIS3/02-SSD ING-INF/05), Università degli Studi di Napoli Parthenope, bando emanato con D.R. n. 903/2016 nominata con D.R. n. 8/2017
+
+C23) Componente della Commissione giudicatrice del concorso per titoli e colloquio per l’attribuzione di n. 1 borsa di ricerca progetto LIMS, Università degli Studi di Napoli Parthenope, nomina con D.R. 130/09/09/2015
+
+C24) Componente della Commissione giudicatrice del concorso per titoli e colloquio per l’attribuzione di 1 Assegno di Ricerca sul tema:  “Monitoraggio Remoto della Sicurezza”, su fondi erogati da ISCOM presso Università degli Studi di Napoli Parthenope, nomina con Decreto Rettorale n. 99/2015 del 08/06/15.
+
+C25) Componente della Commissione giudicatrice del concorso per titoli e colloquio per l’attribuzione di n. 1 borsa di ricerca, Università degli Studi di Napoli Parthenope, nomina con Decreto Rettorale n. 285 del 20/03/13
+
+C26) Componente della Commissione giudicatrice del concorso per titoli e colloquio per l’attribuzione di n. 1 borsa di studio, Università degli Studi di Napoli Parthenope, nomina con Decreto Rettorale n. 1033 del 22/12/12
+
+C27) Dal 2019 al 2022, componente della Commissione di Assicurazione della Qualità (AQ) del Corso di Studi in Ingegneria dell’Informazione del Dipartimento di Ingegneria, Università degli Studi di Napoli Parthenope.
+
+C28) Componente della commissione per la selezione dei docenti Erasmus Plus per l’a.a. 2017/18 nominato con DR 444 del 19/06/2017, presso Università degli Studi di Napoli Parthenope
+
+C29) Responsabile del procedimento e responsabile dell’esecuzione per la realizzazione di materiale elearning blended presso Università degli Studi di Napoli Parthenope. Nomina con Decreto n. 228. Dell’11/04/2018
+
+C30) Responsabile del procedimento e responsabile dell’esecuzione per la procedura CIG 5733619C11 dell’Università degli Studi di Napoli Parthenope, bando di gara pubblicato il 05/05/2014 in Gazzetta Ufficiale V Serie Speciale – Contratti Pubblici n. 50, con codice redazione T-14BFL7027. 
+
+C31) Componente di Commissione Giudicatrice della procedura selettiva per titoli ed esami, per la progressione tra le categorie, per la copertura di n. 1 posto di categoria EP, posizione economica EP1, area tecnica, tecnico-scientifica ed elaborazione dati, per esigenze connesse alla gestione della transizione al digitale presso l’Università degli Studi di Napoli Parthenope. Nomina con D.D.G. 21 del 20.01.2021
+
+C32) Componente di Commissione Giudicatrice della procedura selettiva per titoli ed esami, per la progressione tra le categorie, per la copertura di n. 1 posto di categoria EP, posizione economica EP1, area tecnica, tecnico-scientifica ed elaborazione dati, per esigenze connesse alla gestione dei sistemi informativi e dei database di Ateneo presso l’Università degli Studi di Napoli Parthenope. Nomina con D.D.G. 22 del 28.01.2021
+
+C33) Dal 2015 Responsabile scambio Erasmus con l’Universidad Politecnica de Madrid, Escuela Técnica Superior de Ingenieros de Telecomunicación de Madrid.
+
+C34) E’ dal 2018 referente per il nodo di Napoli del programma Cyberchallenge.it del Laboratorio Nazionale per la Cybersicurezza del CINI. 
+
+Luigi Coppolino ha infine partecipato al numerosi commissioni, anche in qualità di presidente della commissione, per l’attribuzione di contratti di collaborazione nell’ambito dei progetti finanziati di cui è stato responsabile scientifico e/o sui quali è stato membro del gruppo di lavoro.
+
+Informativa ai sensi dell’art. 13 del Regolamento (UE) 679/2016 recante norme sul trattamento dei dati personali:
+I dati raccolti con il presente modulo sono trattati ai fini del procedimento per il quale vengono rilasciati e verranno utilizzati esclusivamente per tale scopo e comunque nell’ambito delle attività istituzionali dell’Università degli Studi di Napoli Federico II. Titolare del trattamento è l'Università, nelle persone del Rettore e del Direttore Generale, in relazione alle specifiche competenze Esclusivamente per problematiche inerenti ad un trattamento non conforme ai propri dati personali, è possibile contattare il Titolare inviando una email al seguente indirizzo: ateneo@pec.unina.it; oppure al Responsabile della Protezione dei Dati rpd@unina.it; PEC: rpd@pec.unina.it . Per qualsiasi altra istanza relativa al procedimento in questione deve essere contattato invece l’Ufficio Concorsi Personale Docente e Ricercatori agli indirizzi: uff.concorsi-pdr@unina.it; oppure PEC: uff.concorsi-pdr@pec.unina.it. Agli/Alle interessati/e competono i diritti di cui agli artt. 15-22 del Regolamento UE. Le informazioni complete, relative al trattamento dei dati personali raccolti, sono riportate sul sito dell’Ateneo: http://www.unina.it/ateneo/statuto-e-normativa/privacy.
+
+
